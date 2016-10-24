@@ -1,0 +1,32 @@
+img {
+  width: 100%;
+}
+/*body {
+  background-image: url("../images/dinnertable.jpeg");
+  background-color: red;
+  width: 100%;
+}*/
+div {
+  background-color: red;
+}
+.bluebox {
+  background-color: blue;
+  height: 900px;
+}
+
+.boxmodel {
+  background-color: green;
+  height: 100px;
+  margin: 20px;
+  margin-left: 40px;
+  border: 2px solid yellow;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+  border: 10px solid white;
+  margin: 10px;
+  padding: 10px;
+}
